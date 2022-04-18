@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,iBAAkB,CAClB,kBACF,CAEA,SACE,kBAAmB,CACnB,gBACF","file":"style.4f987b55.css","sourceRoot":"..\\src","sourcesContent":[".form-fieled {\n  display: flow-root;\n  margin-bottom: 10px;\n}\n\nfieldset {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n"]}
